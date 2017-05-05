@@ -9,9 +9,9 @@
 title: The Ketogenic Diet
 email: williamsheean17@sasaustin.org
 description: > # this means to ignore newlines until "baseurl:"
-  This blog containts daily posts about my experience on the ketogenic diet,
+  This website containts daily posts about my experience on the ketogenic diet,
   along with the research I've done on the science behind the diet. Explore
-  the website to discover meal plans, comparisons, charts, and more!
+  the website to discover meal plans, comparisons, charts, pictures and more!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
