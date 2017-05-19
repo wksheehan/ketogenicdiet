@@ -5,4 +5,4 @@ permalink: /pics
 ---
 
 Here are some of the pictures during my project!
-![firstmeal](Images/firstmeal.jpg)
+![firstmeal]("C:\Users\wksheehan\Downloads\Images\firstmeal.JPG")
