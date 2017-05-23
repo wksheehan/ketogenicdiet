@@ -17,12 +17,12 @@ And, of course, what got me started with this in the first place: the book [Tool
 
 Some of the other websites I utilized:  
 
-http://catsfork.com/Health-Diet/KetogenicDiet.html  
-http://www.theultimatealphaproject.com/why-cheat-day-works-and-how-to-use-it/  
-http://blog.myfitnesspal.com/5-fats-add-diet/  
-https://www.endocrineweb.com/conditions/type-1-diabetes/what-insulin  
-https://robbwolf.com/what-is-the-paleo-diet/  
-http://www.hopkinsmedicine.org/news/media/releases/low_carb_higher_fat_diets_add_no_arterial_health_risks_to_obese_people_seeking_to_lose_weight  
-http://www.doctorshealthpress.com/food-and-nutrition-articles/ketogenic-diet  
-https://www.bodybuilding.com/fun/sclark86.htm  
-https://www.youtube.com/watch?v=iOXHFvFpimg
+[http://catsfork.com/Health-Diet/KetogenicDiet.html](http://catsfork.com/Health-Diet/KetogenicDiet.html)  
+[http://www.theultimatealphaproject.com/why-cheat-day-works-and-how-to-use-it/](http://www.theultimatealphaproject.com/why-cheat-day-works-and-how-to-use-it/)  
+[http://blog.myfitnesspal.com/5-fats-add-diet/](http://blog.myfitnesspal.com/5-fats-add-diet/)  
+[https://www.endocrineweb.com/conditions/type-1-diabetes/what-insulin](https://www.endocrineweb.com/conditions/type-1-diabetes/what-insulin)  
+[https://robbwolf.com/what-is-the-paleo-diet/](https://robbwolf.com/what-is-the-paleo-diet/)    
+[http://www.hopkinsmedicine.org/news/media/releases/low_carb_higher_fat_diets_add_no_arterial_health_risks_to_obese_people_seeking_to_lose_weight](https://robbwolf.com/what-is-the-paleo-diet/)  
+[http://www.doctorshealthpress.com/food-and-nutrition-articles/ketogenic-diet](http://www.doctorshealthpress.com/food-and-nutrition-articles/ketogenic-diet)  
+[https://www.bodybuilding.com/fun/sclark86.htm](https://www.bodybuilding.com/fun/sclark86.htm)  
+[https://www.youtube.com/watch?v=iOXHFvFpimg](https://www.youtube.com/watch?v=iOXHFvFpimg)  
