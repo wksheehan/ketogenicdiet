@@ -10,11 +10,13 @@ permalink: /sources
 
 [This](https://www.w3schools.com/html/) is where I got a lot of my HTML help from
 
-[Here's](https://www.youtube.com/watch?v=iOXHFvFpimg) how I made the slideshow on my homepage
-
 And, of course, what got me started with this in the first place: the book [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788) by Tim Ferris. It's really cool and I definitely recommend checking it out, and not just for keto!
 
-
+{% highlight html %}
+<br>
+<br>
+<br>
+{$ endhighlight %}
 
 Some of the other websites I utilized:  
 
@@ -26,3 +28,4 @@ https://robbwolf.com/what-is-the-paleo-diet/
 http://www.hopkinsmedicine.org/news/media/releases/low_carb_higher_fat_diets_add_no_arterial_health_risks_to_obese_people_seeking_to_lose_weight  
 http://www.doctorshealthpress.com/food-and-nutrition-articles/ketogenic-diet  
 https://www.bodybuilding.com/fun/sclark86.htm  
+https://www.youtube.com/watch?v=iOXHFvFpimg
