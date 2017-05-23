@@ -16,7 +16,7 @@ And, of course, what got me started with this in the first place: the book [Tool
 <br>
 <br>
 <br>
-{$ endhighlight %}
+{% endhighlight %}
 
 Some of the other websites I utilized:  
 
