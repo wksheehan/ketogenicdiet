@@ -4,10 +4,6 @@ title: Sources
 permalink: /sources
 ---
 
-If you want to listen to the full interview with Mr. Wright, here it is.
-![](mrwrightinterview.mp3)
-
-
 [Authority Nutrition](https://authoritynutrition.com/ketogenic-diet-101/) helped a lot with the basics of the Ketogenic Diet
 
 [This Keotgenic Diet Website](http://www.ketogenic-diet-resource.com/ketogenic-diet-plan.html) was my go-to resource for all things Keto
