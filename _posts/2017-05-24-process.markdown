@@ -1,0 +1,7 @@
+---
+layout: post
+title: "The Process"
+date: 2017-05-24 6:00
+categories: jekyll update
+---
+This will talk about the process of getting ready, starting, keto flu, and feeling better.
