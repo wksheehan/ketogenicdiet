@@ -11,11 +11,13 @@ I wake up around 9-10 A.M (if I don't have school). I'm STARVING. Like my stomac
 
 Somewhere between 11 and 12 I usually get really really hungry, and the longer I wait the worse I can function. If it's been like over 4 hours since I ate, that's all that will be on my mind. And my stomach will feel like it's caving in.
 
-A lot of times I'll eat like a granola bar (so unhealthy) before lunch to try and settle my stomach, but it doesn't really work. When I do finally eat lunch, it's usually out at a restaurant. Unless we're talking about during school. Or if I'm at home, I'll just make myself a quesadilla or panini and maybe some chips and guac. If I'm at school, I eat a huge lunch but then still get hungry before sports.
+A lot of times I'll eat like a granola bar (so unhealthy) before lunch to try and settle my stomach, but it doesn't really work. When I do finally eat lunch, it's usually out at a restaurant. Unless we're talking about during school. If I'm at home, I'll just make myself a quesadilla or panini and maybe some chips and guac. If I'm at school, I eat a huge lunch but then still get hungry before sports.
 
 I get pretty hungry again after about 3 hours, and have a snack. Cereal, bagel, maybe some nuts. If I'm at school I just have to push through sports practice hungry. Then I come home starving and eat a massive dinner and feel so satisfied. Then I have dessert--usually icecream or cookies or something like that. But not all the time.
 
-If I'm at school and it's a thursday, bless up. Because there's pizza! Even though I just had a huge lunch I always try to get pizza from the school store, and when I do, I'll eat like two pizza rolls and two slices of pepperoni pizza. That usually tides me over until dinner, but I'm still hungry AF.
+If I'm at school and it's a thursday, bless up. Because there's pizza! Even though I just had a huge lunch I always try to get pizza from the school store, and when I do, I'll eat like two pizza rolls and two slices of pepperoni pizza. That usually tides me over until dinner, but I'm still hungry AF. Dinner usually consists of carbs, like pasta, bread...and I eat SO much. You don't even know. SOOO much food.
+
+If I go out to a party or to hang with friends or Maddie, I usually will get hungry again. If there's food at a party, I'm all over it. And I'll be finishing other people's food for them...I'm kind of just known as the hungry guy who will eat whatever you put in front of him.
 
 
 Here is what a typical day looks like for me on the Ketogenic Diet.
