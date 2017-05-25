@@ -44,8 +44,18 @@ Before: We can just call this "normal." I'm able to do bench workouts and sprint
 
 After: If I do heavy weight lifting, or try to sprint, it feels harder. I definitely die out faster. However, my strength at low intensity running / cycling and lighter weight lifting feels improved, actually. I can crank out a ton of reps of like 60% of my max bench press, but can only do like two when I get near 75-80% or higher.
 
+Exercise
+========
+Before: I'm an active guy, even outside of school sports. I play spikeball, throw a football around, play soccer in my yard. I don't really get "tired."
+
+After: Once I was past the transition stage, nothing seemed different. I didn't even think about how I felt when I played stuff like spikeball or a pickup basketball game, I just played and felt fine. It'd be interesting to see how I would do at a full on soccer game or track meet.
+
 Headaches
 =========
 Before: I get pretty frequent headaches, and they are always on the right half of my head. They kinda suck and I think they are a result of dehydration, sleep deprivation, and stress.
 
 After: I've been getting the same amount of sleep, and the stress I feel is about the same compared to when I got out of school. But I have been more hydrated. Anyway, I haven't gotten a single headache since I went keto.
+
+Other
+=====
+Well, my pee and breath definitely smell different. My overall happiness and satisfactin with life is about the same, although not being able to eat delicious sugary food sometimes is a downer, but I'm used to it now. My poop schedule didn't change, but they are consistently nice and easy, whereas before sometimes they aren't too fun. If I have too much MCT oil, though, that's a different story. 
