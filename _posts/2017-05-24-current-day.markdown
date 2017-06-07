@@ -13,7 +13,7 @@ Somewhere between 11 and 12 I usually get really really hungry, and the longer I
 
 A lot of times I'll eat like a granola bar (so unhealthy) before lunch to try and settle my stomach, but it doesn't really work. When I do finally eat lunch, it's usually out at a restaurant. Unless we're talking about during school. If I'm at home, I'll just make myself a quesadilla or panini and maybe some chips and guac. If I'm at school, I eat a huge lunch but then still get hungry before sports.
 
-I get pretty hungry again after about 3 hours, and have a snack. Cereal, bagel, maybe some nuts. If I'm at school I just have to push through sports practice hungry. Then I come home starving and eat a massive dinner and feel so satisfied. Then I have dessert--usually icecream or cookies or something like that. But not all the time.
+I get pretty hungry again after about 3 hours, and have a snack. Cereal, bagel, maybe some nuts. If I'm at school I just have to push through sports practice hungry. Then I come home starving and eat a massive dinner and feel so satisfied. Then I have dessert--usually icecream or cookies or something like that. But not all the time. After dinner, I get another burst of energy, then get kind of tired, espeically if I'm really full.
 
 If I'm at school and it's a thursday, bless up. Because there's pizza! Even though I just had a huge lunch I always try to get pizza from the school store, and when I do, I'll eat like two pizza rolls and two slices of pepperoni pizza. That usually tides me over until dinner, but I'm still hungry AF. Dinner usually consists of carbs, like pasta, bread...and I eat SO much. You don't even know. SOOO much food.
 
