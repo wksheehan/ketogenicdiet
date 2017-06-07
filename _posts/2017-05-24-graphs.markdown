@@ -5,8 +5,8 @@ date: 2017-05-23 6:00
 categories: jekyll update
 ---
 HUNGER vs TIME
-![hunger graph](/pics/hungergraph.JPG)
-Blue: My Average Hunger rated throughout the day, while on SAD
+![hunger graph](/pics/hungergraph.jpg)
+Blue: My average hunger rated throughout the day, while on SAD
 Red: My average hunger rated throughout the day, while on Keto
 
 Notice how while on Keto, my hunger does not fluctuate nearly as much while on SAD. There are much less intense spikes, resulting in a much more even-keel feeling and constant energy throughout the day.
@@ -21,4 +21,4 @@ This is the breakdown of your macronutrient intake on the Ketogenic Diet. Most o
 
 ![SAD](http://cdn.breaknutrition.com/wp-content/uploads/2017/03/standard-american-diet.png)
 
-This is more or less the breakdown of macronutrients we eat on the Standard American Diet. Note that Standard American Diet can be abreviated to SAD, which couldn't be more accurate, because if we are being honest it is sad. We eat too many refined and processed carbohydrates and not enough healthy fat. A majority of the fat in this percentage is also trans fat, which is not that good for you.
+This is more or less the breakdown of macronutrients we eat on the Standard American Diet. Note that Standard American Diet can be abbreviated to SAD, which couldn't be more accurate, because if we are being honest it is sad. We eat too many refined and processed carbohydrates and not enough healthy fat. A majority of the fat in this percentage is also trans fat, which is not that good for you.

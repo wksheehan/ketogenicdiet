@@ -12,7 +12,7 @@ permalink: /sources
 
 And, of course, what got me started with this in the first place: the book [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788) by Tim Ferris. It's really cool and I definitely recommend checking it out, and not just for keto!  
 
-
+I also listened to a couple of podcasts by Tim Ferris, which were very helpful. They have a lot of good info and are good for car rides.
 
 
 Some of the other websites I utilized:  
