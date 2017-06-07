@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Comparisons"
-date: 2017-05-24 6:00
+date: 2017-05-24 5:00
 categories: jekyll update
 ---
 Mental Clarity
@@ -58,4 +58,4 @@ After: I've been getting the same amount of sleep, and the stress I feel is abou
 
 Other
 =====
-Well, my pee and breath definitely smell different. My overall happiness and satisfactin with life is about the same, although not being able to eat delicious sugary food sometimes is a downer, but I'm used to it now. My poop schedule didn't change, but they are consistently nice and easy, whereas before sometimes they aren't too fun. If I have too much MCT oil, though, that's a different story. 
+Well, my pee and breath definitely smell different. My overall happiness and satisfactin with life is about the same, although not being able to eat delicious sugary food sometimes is a downer, but I'm used to it now. My poop schedule didn't change, but they are consistently nice and easy, whereas before sometimes they aren't too fun. If I have too much MCT oil, though, that's a different story.
