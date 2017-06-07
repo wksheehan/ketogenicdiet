@@ -5,14 +5,14 @@ date: 2017-05-24 6:00
 categories: jekyll update
 ---
 HUNGER vs TIME
-![hunger graph](/pics/hungergraph.jpg)
+![hunger graph](pics/hungergraph.JPG/)
 Blue: My Average Hunger rated throughout the day, while on SAD
 Red: My average hunger rated throughout the day, while on Keto
 
 Notice how while on Keto, my hunger does not fluctuate nearly as much while on SAD. There are much less intense spikes, resulting in a much more even-keel feeling and constant energy throughout the day.
 
-![ketopie](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjC8pvSkKzUAhWmjlQKHdLDDXgQjRwIBw&url=https%3A%2F%2Fwww.t-nation.com%2Fdiet-fat-loss%2Fugly-truth-about-ketogenic-diets&psig=AFQjCNHUl7ajFdgvwAGtqjOL04Rhb0whZQ&ust=1496938507551843)
+![ketopie](https://www.t-nation.com/system/publishing/article_assets/3400/original/Pie-Chart.jpg?ts=1439410144)
 This is the breakdown of your macronutrient intake on the Ketogenic Diet. Most of your calories are coming from fats, instead of carbs. Our bodies normally break down carbs into glucose and glycogen, which is what we primarily use for energy. Replacing our carbohydrate intake with fats switches our metabolic pathways to now use fat as our primary source of energy, a much more efficient and clean form of energy. Make sure to avoid long-chain triglycerides such as trans fats, however, because your body takes too long to break them down.
 
-![SAD](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiiuLbrkKzUAhXrh1QKHZJwCdIQjRwIBw&url=http%3A%2F%2Fbreaknutrition.com%2Fketogenic-diets-in-human-evolutionary-history%2F&psig=AFQjCNGgkUT9r9tVjfrTnZOayLgov-MAYg&ust=1496938549842272)
+![SAD](http://cdn.breaknutrition.com/wp-content/uploads/2017/03/standard-american-diet.png)
 This is around the breakdown of macronutrients we eat on the Standard American Diet. Note that Standard American Diet can be abreviated to SAD, which couldn't be more accurate, because if we are being honest it is sad. We eat too many refined and processed carbohydrates and not enough healthy fat. A majority of the fat in this percentage is also trans fat, which is not that good for you.
