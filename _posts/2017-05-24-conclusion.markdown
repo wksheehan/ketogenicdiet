@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conclusion"
-date: 2017-05-24 6:00
+date: 2017-05-25 6:00
 categories: jekyll update
 ---
 The Ketogenic Diet no doubt has numerous benefits. It is appealing to a wide audience. Whether you are looking to lose weight, get healthier, increase your energy, or even cure cancer, this could be the thing for you. It might just make you a happier person,change your life, or at the very least make a good conversation starter. It is an interesting thing to try even if you are just curious, like me. Going through it will teach you commitment and test your will power, and you'll come out of it like you just took a cold, refreshing shower.
@@ -14,4 +14,4 @@ Going forward, I think I'm going to follow a loose, modified ketogenic diet. Mr.
 
 However, I'm just one type of person, and I think for many people commiting to this diet is something that could be very applicable and beneficial. For adults, it is probably more appealing. As you get older, your body does worse and worse on carbs. I know several adults who already eat this way, like my orthodontist and some friends' parents. If this interested you at all, I highly encourage you to go for it. You can do it, and you won't regret it. And if not, I still think we should all incorporate more healthy fats into our diet, and stay away from sugary things.
 
-A big problem in modern society is obesity and being overweight, and a lot of health issues stem from that. And it all leads back to our lifestyle, and esepcailly to the way we eat. Since highly refined carbs and sugar are so addictive and our bodies use them as energy so quickly, we eat so much of them. I hope that reading this website has opened your eyes and at the very least motivated you to eat healthier. Tell your friends, tell your family, tell the world. Get the word out that fat will not necessarily make you fat. I want to change the world, in whatever way I can, and I think that this is a good start. The health industry is so massive but people don't even realize that we could all be so much healthier if we just changed the way we eat. 
+A big problem in modern society is obesity and being overweight, and a lot of health issues stem from that. And it all leads back to our lifestyle, and esepcailly to the way we eat. Since highly refined carbs and sugar are so addictive and our bodies use them as energy so quickly, we eat so much of them. I hope that reading this website has opened your eyes and at the very least motivated you to eat healthier. Tell your friends, tell your family, tell the world. Get the word out that fat will not necessarily make you fat. I want to change the world, in whatever way I can, and I think that this is a good start. The health industry is so massive but people don't even realize that we could all be so much healthier if we just changed the way we eat.
