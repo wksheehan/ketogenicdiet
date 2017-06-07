@@ -22,6 +22,12 @@ Before: I'd say for the most part my energy is pretty good, especially compared 
 
 After: My energy is awesome and very even keel. I never have highs and lows--I feel about the same throughout the whole day. Hunger is no longer paired with tiredness, as it was before. I am able to do excellent work for long periods of time without getting brain dead. I do drink coffee in the morning, but I went back and forth between decaf and regular and didn't really notice a difference. Overall, I'd say I have more even energy, but before I definitely had big spikes with a ton of energy and then big lows where I just want to take a nap.
 
+Eating
+======
+Before: I eat a ton of food, mostly carbs, and keep eating as much as I possibly can. Then I get to a point where my belly is heavy with food and I feel super content, and often want to just lie down. I feel full and like I'm about to burst, but I like it.
+
+After: When I eat, it is really satisfying, and tastes amazing. However, I can only eat so much at a time. It's hard to sit down and eat a big plate of fat like I do with carbs and get to that point where I'm really full and it feels good. Instead, I get to a point where it feels weird in my throat and my body won't let me keep eating, but I have to force it down. To avoid this somewhat painful situation, I eat more throughout the day instead of a lot at one time, unlike carbs. I've found I don't really get belly-bursting full; its a different, more subtle full that lasts for a while.
+
 Body Measurements
 =================
 All of my body measurements, like chest, legs, arms, hips, all stayed the same. This was just to make sure I wasn't losing muscle. I also haven't been working out as much as I normally do with track practice and all, so staying at the same measurements was reassuring that this diet wasn't going to eat my muscles up because I didn't have carbs (which totally would never happen).
@@ -49,6 +55,12 @@ Exercise
 Before: I'm an active guy, even outside of school sports. I play spikeball, throw a football around, play soccer in my yard. I don't really get "tired."
 
 After: Once I was past the transition stage, nothing seemed different. I didn't even think about how I felt when I played stuff like spikeball or a pickup basketball game, I just played and felt fine. It'd be interesting to see how I would do at a full on soccer game or track meet.
+
+Burps/Farts
+===========
+Before: I normally burp an absurd amount of times throughout the day. It's really strange. I don't have a farting problem though, thankfully.
+
+After: I definitely felt like I burped less. I almost never had to fart, though. I noticed on my cheat day I was MUCH more gassier than when I was on keto, and almost ten minutes after I had an icecream sandwhich I started getting gassy. It was strange how sharp of a difference there was.
 
 Headaches
 =========
