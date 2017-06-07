@@ -5,7 +5,7 @@ date: 2017-05-23 6:00
 categories: jekyll update
 ---
 HUNGER vs TIME
-![hunger graph](/pics/hungergraph.JPG)
+![image](/pics/avocados.JPG)
 Blue: My average hunger rated throughout the day, while on SAD
 Red: My average hunger rated throughout the day, while on Keto
 
